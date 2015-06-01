@@ -1,0 +1,3 @@
+# Module notepad
+# RPC service class, partial path of RPC policy file
+edu.sdsu.cs645.client.NotepadService, BB3418E849342D4653B8AED3043353FE.gwt.rpc
